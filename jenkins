@@ -1,0 +1,27 @@
+https://pkg.jenkins.io/redhat-stable/
+
+   sudo wget -O /etc/yum.repos.d/jenkins.repo https://pkg.jenkins.io/redhat-stable/jenkins.repo
+ 
+
+    sudo rpm --import https://pkg.jenkins.io/redhat-stable/jenkins.io.key
+
+
+      yum install jenkins
+
+
+
+   service jenkins start
+
+
+   service jenkins ststus
+
+  go to the browser : public ip:8080
+
+ 
+
+https://www.youtube.com/watch?v=ypWzL3PdKx0  rds 
+
+
+
+https://www.youtube.com/watch?v=ypWzL3PdKx0&list=RDCMUCd6MoB9NC6uYN2grvUNT-Zg&start_radio=1&t=298
+
